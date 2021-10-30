@@ -1,5 +1,5 @@
 {
-    "name": "sameh-nabil/laravel-dompdf",
+    "name": "barryvdh/laravel-dompdf",
     "description": "A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
