@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.2 || ^8.0",
-        "baklysystems/dompdf": "dev-master",
+        "baklysystems/dompdf": "dev-rtlfix",
         "illuminate/support": "^6|^7|^8"
     },
     "require-dev": {
