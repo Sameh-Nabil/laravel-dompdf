@@ -23,7 +23,7 @@
      "repositories": [
       {
         "type": "vcs",
-        "url": "https://github.com/Sameh-Nabil/dompdf"
+        "url": "git@github.com:Sameh-Nabil/dompdf.git"
       }
     ],
     "autoload": {
